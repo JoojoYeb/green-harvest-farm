@@ -113,7 +113,7 @@ export default function HomePage() {
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button asChild size="lg" className="bg-green-600 hover:bg-green-700 text-white">
                 <Link href="/products">
-                  Explore Our Products <ArrowRight className="ml-2 w-5 h-5" />
+                  Explore cole palmer <ArrowRight className="ml-2 w-5 h-5" />
                 </Link>
               </Button>
               <Button
