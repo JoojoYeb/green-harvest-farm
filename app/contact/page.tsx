@@ -54,7 +54,7 @@ export default function ContactPage() {
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center">
               <Link href="/" className="text-2xl font-bold text-green-700">
-                🌱 GreenHarvest Farm
+                🌱 JunFarms
               </Link>
             </div>
             <div className="hidden md:block">
