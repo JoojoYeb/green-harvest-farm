@@ -104,7 +104,7 @@ export default function HomePage() {
             className={`text-center transition-all duration-1000 ${isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-10"}`}
           >
             <h1 className="text-4xl md:text-6xl font-bold text-green-800 mb-6">
-              Welcome to <span className="text-yellow-600">GreenHarvest</span> Farm
+              Welcome to <span className="text-yellow-600">JunFarms
             </h1>
             <p className="text-xl md:text-2xl text-gray-700 mb-8 max-w-3xl mx-auto">
               Your trusted partner in sustainable agriculture, providing premium eggs, poultry, fish, and snail farming
@@ -113,7 +113,7 @@ export default function HomePage() {
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button asChild size="lg" className="bg-green-600 hover:bg-green-700 text-white">
                 <Link href="/products">
-                  Explore cole palmer <ArrowRight className="ml-2 w-5 h-5" />
+                  Explore <ArrowRight className="ml-2 w-5 h-5" />
                 </Link>
               </Button>
               <Button
