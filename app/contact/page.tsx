@@ -168,7 +168,7 @@ export default function ContactPage() {
                       <div>
                         <h3 className="font-semibold text-green-800">Address</h3>
                         <p className="text-gray-600">Nsawam Road</p>
-                        <p className="text-gray-600">Nsawam, eastern Region</p>
+                        <p className="text-gray-600">Nsawam, Eastern Region</p>
                       </div>
                     </div>
                   </CardContent>
