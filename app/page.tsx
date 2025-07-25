@@ -104,7 +104,7 @@ export default function HomePage() {
             className={`text-center transition-all duration-1000 ${isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-10"}`}
           >
             <h1 className="text-4xl md:text-6xl font-bold text-green-800 mb-6">
-              Welcome to <span className="text-yellow-600">JunFarms
+              Welcome to <span className="text-yellow-600">JunFarms</span>
             </h1>
             <p className="text-xl md:text-2xl text-gray-700 mb-8 max-w-3xl mx-auto">
               Your trusted partner in sustainable agriculture, providing premium eggs, poultry, fish, and snail farming
