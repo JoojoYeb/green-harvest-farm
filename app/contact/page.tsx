@@ -137,7 +137,7 @@ export default function ContactPage() {
                       </div>
                       <div>
                         <h3 className="font-semibold text-green-800">Phone</h3>
-                        <p className="text-gray-600">+1 (555) 123-4567</p>
+                        <p className="text-gray-600">+233(0)50 4600477</p>
                         <p className="text-sm text-gray-500">Mon-Fri 8AM-6PM</p>
                       </div>
                     </div>
@@ -152,7 +152,7 @@ export default function ContactPage() {
                       </div>
                       <div>
                         <h3 className="font-semibold text-green-800">Email</h3>
-                        <p className="text-gray-600">info@greenharvest.com</p>
+                        <p className="text-gray-600">ghlexo@gmail.com</p>
                         <p className="text-sm text-gray-500">We'll respond within 24 hours</p>
                       </div>
                     </div>
@@ -167,8 +167,8 @@ export default function ContactPage() {
                       </div>
                       <div>
                         <h3 className="font-semibold text-green-800">Address</h3>
-                        <p className="text-gray-600">123 Farm Road</p>
-                        <p className="text-gray-600">Green Valley, CA 95945</p>
+                        <p className="text-gray-600">Nsawam Road</p>
+                        <p className="text-gray-600">Nsawam, eastern Region</p>
                       </div>
                     </div>
                   </CardContent>
